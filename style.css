@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #D5F4FF;
+}
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+#result {
+    margin-top: 20px;
+}
+#result img {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 4px;
+}
